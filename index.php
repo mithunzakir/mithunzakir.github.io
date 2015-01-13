@@ -1,1 +1,1 @@
-Indexdeleteme
+deleteme
